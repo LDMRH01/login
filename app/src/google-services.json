@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147966486669",
+    "project_id": "inicio-c0c56",
+    "storage_bucket": "inicio-c0c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147966486669:android:ee438e3ff082f303bd5ac4",
+        "android_client_info": {
+          "package_name": "com.lramirez.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLIoDCA0CIt8QhCMmdS51NZUgdeOEpo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
